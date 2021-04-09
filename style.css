@@ -1,0 +1,12 @@
+body {
+    text-align:center;
+    padding-top:10%;
+}
+h1 {
+    font-size:120px;
+}
+button {
+    padding:20px 10px;
+    display:block;
+    margin:0 auto;
+}
