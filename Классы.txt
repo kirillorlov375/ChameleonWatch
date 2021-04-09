@@ -1,9 +1,0 @@
-let Car = function(brand, model, color) {
-    this.brand = brand;
-    this.model = model;
-    this.color = color;
-};
-let tesla = new Car('tesla', 'X', 'bronza');
-console.log(tesla);
-let mazda = new Car('mazda', '6', 'black');
-console.log(mazda);
